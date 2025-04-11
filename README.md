@@ -5,12 +5,6 @@ A comprehensive suite of tools for bakery operations management, combining inven
 ## Applications
 
 ### Inventory & POS System
-![Inventory Dashboard](docs/screenshots/inventory.png)
-*Comprehensive inventory management dashboard for tracking bakery supplies and product levels*
-
-![Inventory Landing Page](docs/screenshots/inventory-landing1.png)
-*Landing page of the inventory management system with key metrics at a glance*
-
 The Inventory & POS system integrates with Loyverse POS to provide:
 - Real-time inventory tracking
 - Customer-facing display
@@ -21,12 +15,7 @@ The Inventory & POS system integrates with Loyverse POS to provide:
 
 [View Repository](https://github.com/DuLoops/Bakery_POS_inventory_customerScreen)
 
-### Recipe & Production Calculator
-![Calculator Desktop View](docs/screenshots/helper-desktop.png)
-*Desktop view of the Recipe Calculator application showing production planning interface*
-
-![Calculator Mobile View](docs/screenshots/helper-mobile.png)
-*Mobile-responsive view of the Recipe Calculator for use on tablets and phones in the kitchen*
+### Production Calculator
 
 The Recipe Calculator helps bakery staff:
 - Calculate blind baked tart quantities
@@ -92,10 +81,21 @@ This suite leverages modern web technologies including:
 - Loyverse POS API Integration
 - Vite Build System
 
-## Future Enhancements
+## Scrennshots
 
-Planned enhancements for this suite include:
-- Unified authentication system
-- Integrated dashboard combining data from both systems
-- Mobile application for production staff
-- Enhanced reporting and analytics
+### Inventory & POS System
+![Inventory Dashboard](docs/screenshots/inventory.png)
+*Comprehensive inventory management dashboard for tracking bakery supplies and product levels*
+
+![Inventory Landing Page](docs/screenshots/inventory-landing1.png)
+*Landing page of the inventory management system with key metrics at a glance*
+
+### Production Calculator
+
+![Calculator Desktop View](docs/screenshots/helper-desktop.png)
+*Desktop view of the Recipe Calculator application showing production planning interface*
+
+![Calculator Mobile View](docs/screenshots/helper-mobile.png)
+*Mobile-responsive view of the Recipe Calculator for use on tablets and phones in the kitchen*
+
+
