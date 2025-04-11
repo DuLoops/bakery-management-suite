@@ -157,8 +157,8 @@ export default function Baker() {
 
 
   return (
-    <div >
-      <h1 className='my-5 text-2xl'>Inventory</h1>
+    <div className='w-full p-1'>
+      <h1 className='my-5 text-2xl text-bold'>Inventory</h1>
       <div className='grid grid-cols-2 md:grid-cols-4  gap-3 texl-xl'>
         {inventory.map((item) => (
           <div key={item.id} className={`flex flex-col items-center border ${selectedInventory.includes(item.id) ? 'border-red-500' : 'border-gray-300'} py-2`}
@@ -180,9 +180,9 @@ export default function Baker() {
           ))}
         </div>
         <div className='flex flex-col w-1/6 gap-2 text-sm md:text-xl '>
-          <button className='border border-gray-300 w-full h-12' onClick={() => setSelectedInventory([])}>Clear Selection</button>
+          <button className='border border-gray-300 w-full h-12' onClick={() => setSelectedInventory([])}>Clear</button>
           <div className='flex gap-2'>
-            <button className='border border-pink-300 bg-pink-200 w-full h-12' onClick={handleSetTo0}>Set to 0</button>
+            <button className='border border-pink-300 bg-pink-200 w-full h-12' onClick={handleSetTo0}>0</button>
             <button className='border border-red-300 bg-red-200 w-full h-12' onClick={handleReset}>New Day</button>
           </div>
         </div>
