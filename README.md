@@ -5,7 +5,11 @@ A comprehensive suite of tools for bakery operations management, combining inven
 ## Applications
 
 ### Inventory & POS System
-![Inventory Dashboard](docs/screenshots/inventory-dashboard-placeholder.png)
+![Inventory Dashboard](docs/screenshots/inventory.png)
+*Comprehensive inventory management dashboard for tracking bakery supplies and product levels*
+
+![Inventory Landing Page](docs/screenshots/inventory-landing1.png)
+*Landing page of the inventory management system with key metrics at a glance*
 
 The Inventory & POS system integrates with Loyverse POS to provide:
 - Real-time inventory tracking
@@ -18,7 +22,11 @@ The Inventory & POS system integrates with Loyverse POS to provide:
 [View Repository](https://github.com/DuLoops/Bakery_POS_inventory_customerScreen)
 
 ### Recipe & Production Calculator
-![Calculator Screenshot](docs/screenshots/calculator-main-placeholder.png)
+![Calculator Desktop View](docs/screenshots/helper-desktop.png)
+*Desktop view of the Recipe Calculator application showing production planning interface*
+
+![Calculator Mobile View](docs/screenshots/helper-mobile.png)
+*Mobile-responsive view of the Recipe Calculator for use on tablets and phones in the kitchen*
 
 The Recipe Calculator helps bakery staff:
 - Calculate blind baked tart quantities
