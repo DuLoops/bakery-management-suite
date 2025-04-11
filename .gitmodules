@@ -1,7 +1,0 @@
-[submodule "apps/inventory-pos"]
-	path = apps/inventory-pos
-	url = https://github.com/DuLoops/Bakery_POS_inventory_customerScreen.git
-
-[submodule "apps/recipe-calculator"]
-	path = apps/recipe-calculator
-	url = https://github.com/DuLoops/CrustBakery_Calculator.git
